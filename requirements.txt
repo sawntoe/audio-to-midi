@@ -1,6 +1,6 @@
 cffi
 Cython
-numpy==1.16.3
+numpy<2.0.0
 pycparser
 SoundFile
 progressbar2
